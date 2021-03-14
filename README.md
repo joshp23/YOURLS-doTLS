@@ -20,6 +20,8 @@ As any YOURLS plugin:
 #### Note:
 This may cause some small delays on page loads in the admin interface if there are a lot of links to check. This _should_ pass.
 
+### Tips
+Dogecoin: DARhgg9q3HAWYZuN95DKnFonADrSWUimy3
 ===========================
 
     Copyright (C) 2019 Josh Panter
