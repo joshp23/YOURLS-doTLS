@@ -1,4 +1,4 @@
-# YOURLS-doTLS
+# YOURLS-doTLS [![Listed in Awesome YOURLS!](https://img.shields.io/badge/Awesome-YOURLS-C5A3BE)](https://github.com/YOURLS/awesome-yourls/)
 Always use SSL/TLS for a destination url in YOURLS if available
 
 #### Function:
